@@ -72,6 +72,7 @@ function App() {
       <form onSubmit={handleSubmit(onSubmit)}>
       <input {...register("firstName")} />
       <p>{errors.firstName?.message}</p>
+      <p>develop branch feature</p>
         
       <input {...register("age")} />
       <p>{errors.age?.message}</p>
