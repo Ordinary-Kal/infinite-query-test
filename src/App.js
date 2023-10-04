@@ -84,6 +84,7 @@ function App() {
       <p>stash fix/app_text test3</p>
       <p>stash fix/app_text test4</p>
       <p>stash fix/app_text test5</p>
+      <p>stash fix/app_text test6</p>
       </header>
     </div>
   );
