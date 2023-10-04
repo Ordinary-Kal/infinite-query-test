@@ -77,7 +77,7 @@ function App() {
       <p>{errors.age?.message}</p>
       <input type='submit'/>
       </form>
-      <p>{process.env.REACT_APP_P_VALUE}</p>
+      <p>VALUE: {process.env.REACT_APP_P_VALUE}</p>
       </header>
     </div>
   );
