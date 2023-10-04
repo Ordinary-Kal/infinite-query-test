@@ -79,6 +79,7 @@ function App() {
       <input type='submit'/>
       </form>
       <p>VALUE: {process.env.REACT_APP_P_VALUE}</p>
+      <p>stash fix/app_text test</p>
       </header>
     </div>
   );
