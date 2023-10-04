@@ -80,6 +80,7 @@ function App() {
       </form>
       <p>VALUE: {process.env.REACT_APP_P_VALUE}</p>
       <p>stash fix/app_text test</p>
+      <p>stash fix/app_text test2</p>
       </header>
     </div>
   );
